@@ -1,5 +1,5 @@
 function Hi() {
-	console.log('hello')
+	console.log('hello everyone')
 }
 
 function greetWhite() {
